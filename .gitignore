@@ -1,2 +1,2 @@
-/ubuntu/.vagrant
-/centos/.vagrant
+.*
+!/.gitignore
